@@ -1,0 +1,12 @@
+{
+  "name": "BOTTEST",
+  "version": "0.1.0",
+  "description": "Projet DIscord Zedora",
+  "main": "main.js",
+  "repository": "https://github.com/Zedora/yt-botdiscordtsjs.git",
+  "author": "zedraxytb@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
